@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HermanMazur/goit-react-hw-01-components/static/css/main.b343e2a8.css",
+    "main.js": "/HermanMazur/goit-react-hw-01-components/static/js/main.f0a19097.js",
+    "index.html": "/HermanMazur/goit-react-hw-01-components/index.html",
+    "main.b343e2a8.css.map": "/HermanMazur/goit-react-hw-01-components/static/css/main.b343e2a8.css.map",
+    "main.f0a19097.js.map": "/HermanMazur/goit-react-hw-01-components/static/js/main.f0a19097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b343e2a8.css",
+    "static/js/main.f0a19097.js"
+  ]
+}
