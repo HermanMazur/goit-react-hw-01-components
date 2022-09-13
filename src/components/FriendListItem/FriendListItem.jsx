@@ -6,8 +6,8 @@ export const FriendListItem = ({ avatar, name, isOnline }) => {
         <span className={isOnline ? css.isonline : css.isoffline}>{isOnline}</span>
         <img className={css.avatar} src={avatar} alt="User avatar" width="48" />
         <p className={css.name}>{name}</p>
-    </li>
-}
+</li>
+} 
 
 FriendListItem.propTypes = {
     avatar: PropTypes.string.isRequired,

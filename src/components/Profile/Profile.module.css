@@ -19,12 +19,10 @@
     font-weight: bold;
 }
 
-.tag,
-.location {
+.tag, .location {
     font-weight: bold;
     color: gray;
 }
-
 .stats {
     padding: 0;
     margin: 0;
