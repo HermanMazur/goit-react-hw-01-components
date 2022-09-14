@@ -33,7 +33,7 @@
 }
 
 .item {
-    outline: 2px solid darkgrey;
+    outline: 1px solid darkgrey;
     background-color: lightgray;
     display: flex;
     justify-content: center;
